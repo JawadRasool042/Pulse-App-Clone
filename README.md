@@ -30,7 +30,7 @@ This repository contains a cloned version of the Pulse app, recreated using HTML
 2. Navigate to the project directory:
    ```bash
    cd pulse-app-clone
-3. Open the index.html file in your browser to view the template:
+3. Open the index.html file in your browser to view the desing:
    ```bash
    open index.html
    
@@ -40,4 +40,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 **Acknowledgments**
 
-Special thanks to SimpleFocus for providing the original design template.
+Special thanks to SimpleFocus for providing the original design.
